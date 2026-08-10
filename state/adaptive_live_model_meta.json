@@ -1,0 +1,10 @@
+{
+  "strategy_version": "v3.5.1",
+  "feature_signature": "6773ad9489ded308b0dc4325700787a4efbd8ebaaba06c270b5c50c6a95a6ae6",
+  "block_start_date": "2026-08-10",
+  "trained_through": "2026-08-07",
+  "train_rows": 174892,
+  "retrain_every_trading_days": 5,
+  "saved_at": "2026-08-10T10:28:51.476188",
+  "reason": "MODEL_OR_META_MISSING"
+}
